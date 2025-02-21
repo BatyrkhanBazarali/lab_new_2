@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # lab_2
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# lab_new_2
+>>>>>>> 875d864f8a603808cb87fdcf1c4bec7de188d27b
